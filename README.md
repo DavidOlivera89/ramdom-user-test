@@ -1,3 +1,8 @@
+## random-user-test
+
+Small test SPA, using the [https://randomuser.me/](https://randomuser.me/) api with React.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
