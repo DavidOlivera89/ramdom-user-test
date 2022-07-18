@@ -1,0 +1,13 @@
+.users {
+  text-align: center;
+  text-align: -webkit-center;
+}
+
+.users div {
+  border-top: 2px solid #56a4a4;
+  padding-top: 20px;
+  border: 1px solid;
+    border-radius: 15px;
+    margin-bottom: 10px;
+    width: 50%;
+}
