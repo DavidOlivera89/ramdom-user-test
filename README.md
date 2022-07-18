@@ -2,6 +2,7 @@
 
 Small test SPA, using the [https://randomuser.me/](https://randomuser.me/) api with React.
 
+You can try it on [https://random-user-test.netlify.app/](https://random-user-test.netlify.app/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
